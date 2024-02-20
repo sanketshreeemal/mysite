@@ -1,6 +1,0 @@
----
-
-
----
-
-Some Cool Content
