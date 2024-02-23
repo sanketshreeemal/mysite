@@ -12,7 +12,7 @@ If you have any specific questions or want to get in touch, please contact me di
 
 
 <h1><a href="http://www.sanketshreemal.com/about/">About</a></h1>
-Im a kid based out of Toronto, navigating the maze to greatness. 
+Navigating the maze to greatness. 
 
 My favourate way to spend time is annoying my cat. Second to that, I'd reach for a book off my shelf or find an exotic recipe to make for dinner. 
 
@@ -20,7 +20,7 @@ Professionally, my time has been split nearly equally between investment researc
 Before a labourer, I was a student of the social sciences. I spent 4 years at UBC's Vancouver School of Economics getting familiar with Economics, Statistics and Finance. <br> <br>
 
 
-<h1><a href="http://www.sanketshreemal.com/travellibrary/">Books</a></h1>
+<h1><a href="http://www.sanketshreemal.com/library/">Library</a></h1>
 Admittantly a newer passion, books are my primary mode of content consumption. I try to read between 20-40 books a year, which still proves to be too little. My interests are expansive and I'm always looking for fantastic book recommendations.
 
 Gun to my head, top three from here? Ishmael, Zen and the Art of Motorcycle Maintenance, and The White Tiger.
