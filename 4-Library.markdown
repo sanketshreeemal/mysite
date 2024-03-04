@@ -6,6 +6,12 @@ permalink: /library/
 Browse the books I've read in the recent past and my quick thoughts on them below. 
 <h2> 2024 </h2>
 
+<h4> If You Meet The Budddha On The Road, Kill Him! (February) </h4>
+Awesome book and even worth a re-read at some point. Core message of the book is about how there is no guidance in life - that which does not come from within is useless. THe message is conveyed by sharing intimate stories from his experience with therapy patients and their struggles. He intertwines these stories with themes from classic literature alluding to Dante, Kafka, Hesse etc. Most memorable quote: 
+<blockquote>
+"…and remember too, you can stay at home, safe in the familiar illusion of certainty. Do not set out without realizing that the way is not without danger. Everything good is costly, and the development of personality is one of the most costly of all things. It will cost you your innocence, your illusions, your certainty."
+ </blockquote>
+
 <h4> Discovering India (January) </h4>
 Underwhelming. Thought it would give me insight into the lives of middle class India, but it was pretty watered down personal finance stories of people starting to invest money. One interesting tidbit - kitty parties are a non-traditional but high trust setting where ideas are shared among bougie women - interesting channel if you want them as a customer base 
 

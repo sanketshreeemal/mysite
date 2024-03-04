@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Travels
-
+permalink: /travels/
 ---
 Country Counter: <span style="background-color: blue; color: white; padding: 5px;">18</span>
 
