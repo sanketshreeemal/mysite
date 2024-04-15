@@ -7,6 +7,10 @@ Browse the books I've read in the recent past and my quick thoughts on them belo
 <h2> 2024 </h2>
 
 <h4> Genghis Khan and the Making of the Modern World (April) </h4>
+Lessons from one of the greatest warriors to ever live. The book is a refreshing take on Genghis Khan, focuses on his military strategy, historical context of his campaigns and his mindset throughout life. So many insights on life, on business, on strategy that this book deserves its own entry. Ill work on it soon. Till then, I'll leave this here:
+<blockquote>
+"Victory did not come to those who played by the rules. It came to those that made their own rules and imposed them on their enemy. Triumph could not be partial. It was total, complete and undeniable - or else it was nothing. In battle, this meant the unbridled use of terror and surprise. "
+</blockquote>
 
 <h4> Working Backwards (April) </h4>
 Amazon's apparent ability pivot into multiple billion dollar businesses and execute with surgical precision is quite well covered. Although the chronicles of Bezos are widely available, this book is unique because it first gives an insider's perspective into how Amazon's internal organization and structure that has been built to support the success that outsiders observe and envy. Second, it dedicates significant effort to showcase how this internal functioning was applied to birth some of Amazon's most successful business ventures such as Prime and AWS. I walked away with dozens of insights, memorable quotes and most importantly practical considerations on how to think about problems and become an execution machine. 
