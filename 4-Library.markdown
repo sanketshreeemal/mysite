@@ -6,6 +6,12 @@ permalink: /library/
 Browse the books I've read in the recent past and my quick thoughts on them below. 
 <h2> 2024 </h2>
 
+<h4> Magical Child (March) </h4>
+Although I will do a deeper dive soon, some quick thoughts. The central thesis the author is trying to put forth is that children go through 'Matrix Shifts' which are distinct biological phases of development of a child and unfold periodically from conception to adulthood. One of the most memorable chapters of the book is the author's very(!) critical take on modern child birth practices. Pearce instills the reader with the horrors of hospital care and synthetic delivery mechanisms. From there, he takes the reader on a journey of child development (lot of which is theoretical and perhaps anecdotal) and the important factors parents must consider in enabling their child's mental development. Overall, I think the author does a good job presenting his research and opinions but that opens him up to warranted criticism because of the apparant lack of any other perspective on his sharp propositions. 
+<blockquote>
+Intelligence can only grow by moving from that which is known into that which is unknown - from predictable to unpredictable. The institutionalized child, for instance, does not grow intellectually. Mental retardation is inevitable when the physical environment is unvaried, when new stimuli are almost non-existent (staring at a white ceiling, of walls of a crib all day or the same classroom etc). Above all, when there is no bodily contact with a stable caretaker to furnish a known matrix (the second matrix with the mother or guardian), moving into the unknown becomes impossible. Moving into the unknown is only possible when the child can make an immediate return to a secure matrix - and the younger the child, the more immediate and constant this return must be.
+</blockquote>
+
 <h4> If You Meet The Buddha On The Road, Kill Him! (February) </h4>
 Awesome book and even worth a re-read at some point. Core message of the book is about how there is no guidance in life - that which does not come from within is useless. THe message is conveyed by sharing intimate stories from his experience with therapy patients and their struggles. He intertwines these stories with themes from classic literature alluding to Dante, Kafka, Hesse etc. Most memorable quote: 
 <blockquote>

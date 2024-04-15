@@ -7,6 +7,9 @@ layout: default
 
 <h1> Welcome to my Cyber Space! </h1>
 This is where you can learn more about me, my work and how I spend my time. I try to keep this website up to date since I choose to not have any other (material) online presence. 
+I tend to write from time to time, you can subscribe here to make sure you get an notification when I put down my thoughts! 
+<iframe src="https://sanketshreemal.substack.com/embed" width="100%" height="130" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 <br>
 If you have any specific questions or want to get in touch, please contact me directly here! 
 
