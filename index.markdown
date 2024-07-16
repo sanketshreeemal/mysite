@@ -6,32 +6,11 @@ layout: default
 <br>
 
 <h1> Welcome to my Cyber Space! </h1>
-This is where you can learn more about me, my work and how I spend my time. I try to keep this website up to date since I choose to not have any other online presence. 
-I tend to write from time to time, you can subscribe here to make sure you get an notification when I put down my thoughts! 
+<p>Hello there! You've stumbled upon my little corner of the internet. This is where you can learn <a href="http://www.sanketshreemal.com/about/">about</a> who I am, what I am <a href="http://www.sanketshreemal.com/notes/">writing</a> about, and the <a href="http://www.sanketshreemal.com/library/">books</a> that inspire me.</p>
+
+<p> This website is a passion project born from my belief that platforms like LinkedIn and other social media will eventually be unbundled at the platform level and instead bundled at the user level. The future isnt looking for Sanket on 6 websites, but looking for Sanket's website.
+Driven by this conviction, I dedicated a week to understanding website development, HTML, and other essential tools to build this digital space from the ground up. </p>
+
+<p> Feel free to explore, learn, and connect with me as I share my journey, thoughts, and experiences. You can also add yourself to this mailing list to receive my essays directly to your inbox. 
+Welcome to my cyber space!</p>
 <iframe src="https://sanketshreemal.substack.com/embed" width="100%" height="130" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
-<br>
-If you have any specific questions or want to get in touch, please contact me directly here! 
-
-
-<h1><a href="http://www.sanketshreemal.com/about/">About</a></h1>
-Navigating the maze to greatness. 
-
-
-Professionally, my time has been split nearly equally between investment research and corporate strategy research at two of of the largest Canadian pension funds. I have also interned at a SaaS firm and an investment bank. <br> <br>
-Before a labourer, I was a student of the social sciences. I spent 4 years at UBC's Vancouver School of Economics getting familiar with Economics, Statistics and Finance. <br> <br>
-
-
-<h1><a href="http://www.sanketshreemal.com/library/">Library</a></h1>
-Admittedly a newer passion, books are my primary mode of content consumption. I try to read between 20-40 books a year, which still proves to be too little. My interests are expansive and I'm always looking for fantastic book recommendations.
-
-Gun to my head, top three from here? Ishmael, Zen and the Art of Motorcycle Maintenance, and The White Tiger.
-
-
-<h1><a href="http://www.sanketshreemal.com/notes/">Notes</a></h1>
-Explore my published mind where the worlds of finance, literature, philosophy and my lived experiences converge. I (will) write about everything and you might find something of interest here. I encourage you to take a peak!
-
-
-<h1><a href="http://www.sanketshreemal.com/travels/">Travels</a></h1>
-
-I've seen a little piece of this beautiful world over the years. Follow my travels here.
