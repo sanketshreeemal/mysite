@@ -22,3 +22,4 @@ permalink: /about/
 <p>My life so far has been a colorful canvas of experiences that have built a character and personality I am proud of. Can't wait to see what's next! </p>
 
 If you would like to read my CV, you can find it <a href="https://drive.google.com/file/d/1K4Rk22WY_a7OHvhYUeDGAXunPjS-qls1/view?usp=drive_link">HERE</a>. 
+
