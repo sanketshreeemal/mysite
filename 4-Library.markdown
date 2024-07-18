@@ -7,7 +7,8 @@ Browse the books I've read in the recent past and my quick thoughts on them belo
 <h2> 2024 </h2>
 
 <h4> Genghis Khan and the Making of the Modern World (April) </h4>
-Lessons from one of the greatest warriors to ever live. The book is a refreshing take on Genghis Khan, focuses on his military strategy, historical context of his campaigns and his mindset throughout life. So many insights on life, on business, on strategy that this book deserves its own entry. Ill work on it soon. Till then, I'll leave this here:
+Lessons from one of the greatest warriors to ever live. The book is a refreshing take on Genghis Khan, focuses on his military strategy, historical context of his campaigns and his mindset throughout life. So many insights on life, on business, on strategy that this book deserves its own <a href="https://www.sanketshreemal.com/genghiskhan/">entry</a>. 
+
 <blockquote>
 "Victory did not come to those who played by the rules. It came to those that made their own rules and imposed them on their enemy. Triumph could not be partial. It was total, complete and undeniable - or else it was nothing. In battle, this meant the unbridled use of terror and surprise. "
 </blockquote>
