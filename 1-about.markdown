@@ -23,3 +23,12 @@ permalink: /about/
 
 If you would like to read my CV, you can find it <a href="https://drive.google.com/file/d/1K4Rk22WY_a7OHvhYUeDGAXunPjS-qls1/view?usp=drive_link">HERE</a>. 
 
+
+<table style="background-color:#fff;">
+<tr>
+<td><img src="/assets/Screenshot 2024-07-21 at 12.37.30 PM.png"></td>
+</tr>
+<tr>
+<td style="background-color:#fff;"><img src="/assets/Screenshot 2024-07-21 at 12.37.51 PM.png"></td>
+</tr>
+</table>
