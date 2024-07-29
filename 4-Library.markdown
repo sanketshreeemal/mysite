@@ -7,11 +7,11 @@ Browse the books I've read recently and my quick thoughts on them below.
 <hr> 
 <h2> 2024 </h2>
 
-<h4> The Originals (June) </h4>
+<!-- <h4> The Originals (June) </h4> -->
 
-<h4> Lessons of History (May) </h4>
+<!-- <h4> Lessons of History (May) </h4> -->
 
-<h4> The Teachings of Don Juan (May) </h4>
+<!-- <h4> The Teachings of Don Juan (May) </h4> -->
 
 <h4> Genghis Khan and the Making of the Modern World (April) <a href="https://www.sanketshreemal.com/genghiskhan/">Full Review</a></h4>
 Lessons from one of the greatest warriors to ever live. The book is a refreshing take on Genghis Khan, focuses on his military strategy, historical context of his campaigns and his mindset throughout life. So many insights on life, on business, on strategy that I wrote a full review! 

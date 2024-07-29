@@ -1,0 +1,13 @@
+---
+layout: page
+title: Professional Timeline
+permalink: /about/professional/
+---
+
+# My Professional Journey
+
+If you would like a printable version of my CV, you can find it <a href="https://drive.google.com/file/d/1K4Rk22WY_a7OHvhYUeDGAXunPjS-qls1/view?usp=drive_link">HERE</a>.
+
+<br>
+<br>
+{% include timeline.html %}

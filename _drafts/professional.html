@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+<article class="professional-timeline">
+  <h1>{{ page.title }}</h1>
+  {{ content }}
+</article>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Paste the JavaScript for the timeline here
+    document.querySelectorAll('.container').forEach(container => {
+      container.addEventListener('click', function() {
+        const isExpanded = this.classList.contains('expanded');
+        document.querySelectorAll('.container').forEach(c => {
+          c.classList.remove('expanded');
+        });
+        if (!isExpanded) {
+          this.classList.add('expanded');
+        }
+      });
+    });
+  });
+</script>

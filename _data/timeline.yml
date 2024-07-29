@@ -1,0 +1,83 @@
+- id: sayebitdah
+  title: "SayEBITDAH.com"
+  date: "April 2024 - Present"
+  category: work
+  description: |
+    - Rethinking financial education by transforming 1,500+ pages of CFA material notes into an accessible and engaging online learning platform with dynamic content and interactive tools.
+    - Leveraging personal experience in multiple finance roles to craft an information database that demystifies complex financial concepts, bridging the gap between academic theory and practical finance.
+
+- id: cadillac
+  title: "Cadillac Fairview Corporation - Analyst, Capital Markets Strategy and Portfolio Risk"
+  date: "April 2022 - January 2024"
+  category: work
+  description: |
+    - Led strategic planning workflows for CF's industrial and retail asset portfolios ($18B) and developed leasing models to assess portfolio risk and return sensitivity to different Canadian macroeconomic environments.
+    - Led CF's Canadian ESG benchmarking study, secured stakeholder buy-in to revamp CF's external reporting with updated SASB and GRI sustainability standards.
+    - Supported cross functional collaboration by preparing quarterly executive updates on total business performance including asset returns, updates to development pipeline, technology and sustainability integration.
+    - Developed and implemented Cadillac Fairview's Enterprise Risk Management (ERM) program; Created a risk monitoring tool that flagged emerging risks across 32 metrics and subsequently used in quarterly executive meetings and board presentations.
+
+- id: cfa-level2
+  title: "CFA Level 2"
+  date: "November 2023"
+  category: education
+  description: "Passed CFA Level 2 with 90th+ percentile score."
+
+- id: royal
+  title: "Royal Embassy Hospitality - External Consultant"
+  date: "August 2021 - February 2022"
+  category: work
+  description: |
+    - Spearheaded restructuring of Royal Embassy Hotel during COVID-19, turned around profitability and viability of the asset from recurring losses to 13% net margins.
+    - Became the city's first hotel to reach pre-COVID occupancy of 74%, improved debt/EBITDA from 12x to 5x and reduced staff turnover from 40% to 18% through three key initiatives:
+      - Recurring Revenue: Increased from ~5% to 45% share by executing outbound lead generation with unique corporate pricing model which allowed for advanced revenue and occupancy visibility.
+      - Financial Flexibility: Improved by renegotiating debt covenants and enhancing supply chain relationships, increasing working capital limits and extending payment terms.
+      - Customer Experience: Rejuvenated by investing in fixed asset upgrades and launching a third-party training program for hospitality and restaurant staff.
+    - Used Microsoft Excel to completely redesign financial reporting of the IS and BS to optimize stakeholder readability and strategy execution; Additionally designed templates for weekly & monthly management reports.
+
+- id: cfa-level1
+  title: "CFA Level 1"
+  date: "August 2022"
+  category: education
+  description: "Passed CFA Level 1 with 90th+ percentile score."
+
+- id: bci
+  title: "British Columbia Investments - Contract Analyst, Global Thematic Equity Portfolio"
+  date: "January 2020 - June 2021"
+  category: work
+  description: |
+    - Investment research directly supported deployment of ~$450 million across stocks in US, India and SEA.
+    - Launched portfolio coverage on companies in the Ag-chemicals, E-commerce and IT services industries:
+      - Combined top-down approach to company selection focused on theme, industry and macro analysis with bottom-up approach to evaluating company quality.
+      - Used Bloomberg, sell side and expert networks to understand fundamentals such as market dynamics, business strategy, financial profile, competitive advantages, capital allocation and management execution track record.
+      - Built financial models to translate long-term views into intrinsic value estimates for portfolio allocation.
+      - Presented research memos to the Investment Committee of managers across all BCI public market portfolios.
+    - Built dashboard to identify gaps in portfolio exposure, studying internal and external thematic research to support new theme ideation; narrowed the broad investment universe and presented 8 suitable emerging themes.
+    - Pitched and built out the E-merging Billions theme coverage, providing unique portfolio exposure to the emerging markets' middle class; Specifically launched coverage on emerging markets consumer retail.
+
+- id: ubc
+  title: "University of British Columbia - Bachelor of International Economics"
+  date: "September 2015 - December 2019"
+  category: education
+  description: | 
+    - Vancouver School of Economics, GPA: 3.8
+    - Awarded International Student Scholarship 
+    - Final Thesis Topic: Economic Impact of Domestic Violence in Angola
+    - Selected Course Work: Financial Statements Analysis, Options & Derivatives, Econometrics, Corporate Finance
+
+
+- id: mobiliya
+  title: "Mobiliya Technologies - Summer Intern, Sales and Partner Management"
+  date: "June 2018 - August 2018"
+  category: work
+  description: |
+    - Conducted extensive market research and segmentation on leading companies in North American Finance, Technology and Heavy Industries to pitch Mobiliya's proprietary AI and IoT solutions.
+    - Generated list of 43 target companies, used a targeted outreach approach and helped convert two large Canadian financial leads (>10,000 employees) into major customers for the global sales team.
+
+- id: bnp
+  title: "BNP Paribas - Summer Intern, ECM Investment Banking"
+  date: "May 2017 - August 2017"
+  category: work
+  description: |
+    - Worked on several Indian and Indonesian deals valued between $300 million and $1.3 billion including $1.3 billion IPO of SBI Life Insurance.
+    - Extensively used Bloomberg to create indicative term sheets, stock charts, summarize analyst recommendations, precedent transactions and market updates to clients using Microsoft PowerPoint and Excel.
+    - Coordinated and tracked global sales and investor roadshows with detailed reports of investor feedback.

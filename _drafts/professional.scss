@@ -1,0 +1,226 @@
+/* Container for the timeline to handle overall layout */
+.timeline-wrapper {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Main timeline vertical line */
+.timeline {
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+  padding-top: 20px;
+}
+
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: #333;
+  top: 0;
+  bottom: 0;
+  left: 100px;
+  margin-left: 0px;
+}
+
+/* Wrapper for each entry in the timeline */
+.timeline-entry {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+}
+
+/* Each container */
+.container {
+  padding: 10px 40px 10px 138px;
+  background-color: inherit;
+  width: calc(90% - 170px);
+  cursor: pointer;
+  transition: z-index 0s 0.3s; /* Delay z-index change */
+}
+
+/* Event node (circle) styles */
+.container::after {
+  content: '';
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: #fff;
+  border: 3px solid #333;
+  left: 90px;
+  top: 15px;
+  border-radius: 50%;
+}
+
+/* Duration bar styles */
+.duration-bar {
+  position: absolute;
+  left: 65px;
+  width: 10px;
+}
+
+/* Work experience duration bar color */
+.work .duration-bar,
+.work.container::after {
+  background-color: #4a90e2;
+}
+
+/* Education experience duration bar and node color */
+.education .duration-bar,
+.education.container::after {
+  background-color: #ffb238;
+}
+
+/* Content box styles */
+.content {
+  padding: 20px 30px;
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #a3c6f0;
+  color: black;
+  transition: all 0.3s;
+}
+
+/* Education content box background color */
+.education .content {
+  background-color: #ffd694;
+}
+
+/* Expand content styles (initially hidden) */
+.expand-content {
+  display: none;
+  margin-top: 10px;
+  padding-top: 20px;
+  border-top: 4px solid #eee;
+  color: black;
+}
+
+/* Expanded state styles */
+.container.expanded {
+  z-index: 10; /* Bring expanded container to front */
+  transition: z-index 0s; /* Immediate z-index change when expanded */
+}
+
+.container.expanded .content {
+  transform: scale(1.05);
+}
+
+.container.expanded .duration-bar {
+  transform: scaleX(2);
+  transform-origin: left;
+}
+
+.container.expanded .expand-content {
+  display: block;
+}
+
+.container.expanded.work .duration-bar {
+  background-color: #2980b9;
+}
+
+.container.expanded.education .duration-bar {
+  background-color: #FFB74D;
+}
+
+.expand-content ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.expand-content ul li {
+  margin-bottom: 8px;
+}
+
+.expand-content ul ul {
+  margin-top: 8px;
+}
+
+/* Typography styles */
+h2 {
+  margin: 0 0 5px 0;
+  color: black;
+  font-size: 1.1em;
+}
+
+h3 {
+  margin: 0 0 10px 0;
+  color: black;
+  font-size: 0.9em;
+  font-weight: normal;
+}
+
+p {
+  margin: 0;
+  color: black;
+  font-size: 0.9em;
+}
+
+/* Start node styles (circle at the bottom of the timeline) */
+.start-node {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: #fff;
+  border: 4px solid #333;
+  bottom: -10px;
+  left: 90px;
+  border-radius: 50%;
+  z-index: 2;
+}
+
+/* Specific positioning for each experience */
+#sayebitdah { margin-top: 0; height: 120px; }
+#cadillac { margin-top: 150px; height: 500px; }
+#cfa-level2 { margin-top: 280px; height: 50px; }
+#royal { margin-top: 605px; height: 145px; }
+#bci { margin-top: 890px; height: 411px; }
+#cfa-level1 { margin-top: 500px; height: 50px; }
+#ubc { margin-top: 1350px; height: 1238px; }
+#mobiliya { margin-top: 1550px; height: 71px; }
+#bnp { margin-top: 1750px; height: 81px; }
+
+/* Duration bar heights for each experience */
+#sayebitdah .duration-bar { height: 78px; }
+#cadillac .duration-bar { height: 430px; }
+#cfa-level2 .duration-bar { height: 100px; }
+#royal .duration-bar { height: 245px; }
+#bci .duration-bar { height: 450px; }
+#cfa-level1 .duration-bar { height: 100px; }
+#ubc .duration-bar { height: 660px; }
+#mobiliya .duration-bar { height: 71px; }
+#bnp .duration-bar { height: 81px; }
+
+/* Node Customization */
+.container::after {
+  left: 90px;
+  top: 15px;
+  width: 20px;
+  height: 20px;
+  background-color: #fff;
+  border: 3px solid #333;
+}
+
+/* Basic responsive adjustments */
+@media screen and (max-width: 768px) {
+  .timeline::after {
+    left: 31px;
+  }
+
+  .container {
+    width: calc(100% - 90px);
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+
+  .container::after {
+    left: 21px;
+  }
+
+  .duration-bar {
+    left: 0;
+  }
+}

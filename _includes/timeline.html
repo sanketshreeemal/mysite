@@ -1,0 +1,31 @@
+<div class="timeline">
+    {% for event in site.data.timeline %}
+      <div id="{{ event.id }}" class="container {{ event.category }}">
+        <div class="duration-bar"></div>
+        <div class="content">
+          <h2>{{ event.title }}</h2>
+          <h3>{{ event.date }}</h3>
+          <div class="expand-content">
+            {{ event.description | markdownify }}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+    <div class="start-node"></div>
+  </div>
+  
+  <script>
+  document.addEventListener('DOMContentLoaded', (event) => {
+    document.querySelectorAll('.container').forEach(container => {
+      container.addEventListener('click', function() {
+        const isExpanded = this.classList.contains('expanded');
+        document.querySelectorAll('.container').forEach(c => {
+          c.classList.remove('expanded');
+        });
+        if (!isExpanded) {
+          this.classList.add('expanded');
+        }
+      });
+    });
+  });
+  </script>

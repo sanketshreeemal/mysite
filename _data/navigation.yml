@@ -1,0 +1,12 @@
+
+- name: About
+  link: '#'
+  sublinks:
+    - name: Personal
+      link: /about/personal/
+    - name: Professional
+      link: /about/professional/
+- name: Essays
+  link: /notes/
+- name: Library
+  link: /library/

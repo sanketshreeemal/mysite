@@ -13,6 +13,10 @@ url: "http://sanketshreemal.com" # the base hostname & protocol for your site, e
 twitter_username: sanketsshreemal
 #github_username: sanketshreemal
 
+sass:
+  sass_dir: _sass
+  style: compressed
+  
 # Build settings
 theme: minima
 plugins:

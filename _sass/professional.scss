@@ -1,0 +1,215 @@
+.timeline {
+    font-family: Arial, sans-serif; // Base font for the timeline
+  
+    .container {
+      .content {
+        h2 {
+          font-size: 1.2em;
+          font-weight: 600;
+          margin-bottom: 5px;
+          color: #333;
+        }
+  
+        h3 {
+          font-size: 1em;
+          font-weight: 400;
+          margin-bottom: 10px;
+          color: #666;
+        }
+  
+        .expand-content {
+          font-size: 0.9em;
+          line-height: 1.25;
+          color: #444;
+  
+          p {
+            margin-bottom: 5px;
+          }
+  
+          ul {
+            padding-left: -10px;
+            margin-bottom: 0px;
+  
+            li {
+              margin-bottom: 5px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+.timeline {
+  position: relative;
+  max-width: 1000px;
+  margin: auto;
+  padding-top: 20px;
+  height: 2030px; // Increased to accommodate all entries
+
+  &::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: #333;
+    top: 0;
+    bottom: 0;
+    left: 100px;
+    margin-left: 0px;
+  }
+
+  .container {
+    padding: 10px 40px 10px 138px;
+    position: absolute;
+    background-color: inherit;
+    width: calc(100% - 130px);
+    z-index: 1;
+    cursor: pointer;
+    transition: z-index 0s 0.3s;
+
+    &::after {
+      content: '';
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      background-color: #fff;
+      border: 3px solid #333;
+      left: 90px;
+      top: 15px;
+      border-radius: 50%;
+      z-index: 1;
+    }
+
+    .duration-bar {
+        position: absolute;
+        left: 62px; // Adjust if needed
+        top: 0;
+        bottom: 0;
+        width: 12px;
+        z-index: 1; // Ensure it's above the timeline line
+    }
+
+    &.work .duration-bar {
+      background-color: #4a90e2;
+    }
+
+    &.education .duration-bar,
+    &.education::after {
+      background-color: #ffb238;
+    }
+
+    .content {
+      padding: 20px 30px;
+      position: relative;
+      border-radius: 15px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      background-color: #a3c6f0;
+      color: black;
+      transition: all 0.3s;
+    }
+
+    &.education .content {
+      background-color: #ffd694;
+    }
+
+    .expand-content {
+      display: none;
+      margin-top: 10px;
+      padding-top: 5px;
+      border-top: 4px solid #eee;
+      color: black;
+    }
+
+    &.expanded {
+      z-index: 10;
+      transition: z-index 0s;
+
+      .content {
+        transform: scale(1.05);
+      }
+
+      .duration-bar {
+        transform: scaleX(1.8);
+        transform-origin: left;
+      }
+
+      .expand-content {
+        display: block;
+      }
+
+      &.work .duration-bar {
+        background-color: #2980b9;
+      }
+
+      &.education .duration-bar {
+        background-color: #FFB74D;
+      }
+    }
+  }
+
+  .start-node {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border: 4px solid #333;
+    bottom: -10px;
+    left: 90px;
+    border-radius: 50%;
+    z-index: 2;
+  }
+}
+
+// Specific positioning for each experience
+#sayebitdah { margin-top: 0; height: 120px; }
+#cadillac { margin-top: 150px; height: 500px; }
+#cfa-level2 { margin-top: 300px; height: 50px; }
+#royal { margin-top: 655px; height: 145px; }
+#bci { margin-top: 920px; height: 411px; }
+#cfa-level1 { margin-top: 480px; height: 50px; }
+#ubc { margin-top: 1350px; height: 1238px; }
+#mobiliya { margin-top: 1550px; height: 71px; }
+#bnp { margin-top: 1750px; height: 81px; }
+
+/* Duration bar heights for each experience */
+#sayebitdah .duration-bar { height: 110px; }
+#cadillac .duration-bar { height: 475px; }
+#cfa-level2 .duration-bar { height: 100px; }
+#royal .duration-bar { height: 245px; }
+#bci .duration-bar { height: 420px; }
+#cfa-level1 .duration-bar { height: 100px; }
+#ubc .duration-bar { height: 660px; }
+#mobiliya .duration-bar { height: 71px; }
+#bnp .duration-bar { height: 81px; }
+
+
+// Typography styles
+h2 {
+  margin: 0 0 5px 0;
+  color: black;
+  font-size: 1.1em;
+}
+
+h3 {
+  margin: 0 0 50px 0;
+  color: black;
+  font-size: 0.9em;
+  font-weight: normal;
+}
+
+p {
+  margin: 0;
+  color: black;
+  font-size: 0.9em;
+}
+
+// Responsive adjustments
+@media screen and (max-width: 768px) {
+  .timeline::after {
+    left: 31px;
+  }
+  .timeline .container {
+    width: calc(100% - 130px);
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+}
